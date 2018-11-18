@@ -1,0 +1,12 @@
+{
+  "extends": ["standard", "standard-react"],
+  "env": {
+    "node": true,
+    "jest": true
+  },
+  "parser": "babel-eslint",
+  "plugins": ["react"],
+  "rules": {
+    "jsx-quotes": 0
+  }
+}

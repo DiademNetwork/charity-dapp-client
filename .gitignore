@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.testnet
+.env.mainnet
+envs/.testnet.env
+envs/.mainnet.env
+envs/.development.env
+.idea
+.storybook
+yarn.lock
